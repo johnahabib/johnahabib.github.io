@@ -1,6 +1,6 @@
 
 
-ul {
+ul.mainmenu {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ ul {
 }
 
 
-li a:link, li a:visited {
+li.mainmenu:link, li.mainmenu:visited {
     display: block;
     color: white;
     text-align: center;
