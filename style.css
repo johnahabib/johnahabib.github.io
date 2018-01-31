@@ -7,9 +7,7 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
-li {
-    float: left;
-}
+
 
 li a:link, li a:visited {
     display: block;
