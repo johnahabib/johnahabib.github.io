@@ -11,7 +11,7 @@ li {
     float: left;
 }
 
-li a {
+li a:link, li a:visited {
     display: block;
     color: white;
     text-align: center;
