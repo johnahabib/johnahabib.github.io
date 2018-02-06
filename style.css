@@ -8,6 +8,9 @@ ul {
     background-color: #333;
 }
 
+li {
+    float: left;
+}
 
 li:link, li:visited {
     display: block;
@@ -19,4 +22,7 @@ li:link, li:visited {
 
 li a:hover {
     background-color: #111;
+}
+.active {
+    background-color: #360;
 }
