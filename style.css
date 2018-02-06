@@ -9,7 +9,7 @@ ul.mainmenu {
 }
 
 
-li.mainmenu:link, li.mainmenu:visited {
+li:link, li:visited {
     display: block;
     color: white;
     text-align: center;
