@@ -1,6 +1,6 @@
 
 
-ul.main-menu {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -8,11 +8,11 @@ ul.main-menu {
     background-color: #333;
 }
 
-li.main-menu {
+li {
     float: left;
 }
 
-li a.main-menu {
+li a {
     display: block;
     color: white;
     text-align: center;
@@ -20,9 +20,7 @@ li a.main-menu {
     text-decoration: none;
 }
 
-li a.main-menu:hover {
+/* Change the link color to #111 (black) on hover */
+li a:hover {
     background-color: #111;
-}
-.active {
-    background-color: #360;
 }
