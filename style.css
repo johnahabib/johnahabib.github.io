@@ -36,6 +36,11 @@ li a:hover {
 h1 {
     text-align: center; 
 }
+
+h2 {
+    margin-left: 100px;
+}
+
 .dropbtn {
     background-color: #00008B;
     color: white;
