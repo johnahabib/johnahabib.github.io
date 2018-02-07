@@ -10,7 +10,7 @@ ul {
     margin-right: 50px;
     padding: 0;
     overflow: hidden;
-    background-color: #00008B;
+    background-color: #111;
 }
 
 li {
@@ -27,10 +27,10 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: #335;
 }
 .active {
-    background-color: #111;
+    background-color: #333;
 }
 
 h1 {
@@ -42,7 +42,7 @@ h2 {
 }
 
 .dropbtn {
-    background-color: #00008B;
+    background-color: #111;
     color: white;
     padding: 16px;
     font-size: 16px;
