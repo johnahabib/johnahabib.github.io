@@ -6,7 +6,7 @@ p {
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: 20px;
     padding: 0;
     overflow: hidden;
     background-color: #00008B;
@@ -20,7 +20,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 20px;
     text-decoration: none;
 }
 
