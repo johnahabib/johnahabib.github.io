@@ -13,24 +13,28 @@ ul {
     background-color: #333;
 }
 
-li {
-    float: left;
+.topnav {
+  overflow: hidden;
+  background-color: #333;
 }
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
+.topnav a {
+  float: left;
+  display: block;
+  color: #;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: #335;
-}
 .active {
-    background-color: #335;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
 }
 
 h1 {
