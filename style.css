@@ -18,12 +18,12 @@ ul {
     margin-right: 50px;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: red;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: red;
 }
 
 .topnav a {
@@ -72,7 +72,7 @@ h2 {
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
-    background-color: red;
+    background-color: #333;
 }
 
 .dropdown-content {
