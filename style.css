@@ -1,6 +1,7 @@
 
 .header img{
-    float: center;
+    margin-left: auto;
+    margin-right: auto;
     width:89px;
     height:50px;
     background: #555;
