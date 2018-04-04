@@ -8,11 +8,13 @@
 }
 
 p {
+   font-family: "Arial Black", Arial, sans-serif;
     margin-left: 200px;
     margin-right: 200px;
 }
 
 ul {
+    font-family: "Arial Black", Arial, sans-serif;
     list-style-type: none;
     margin-left: 50px;
     margin-right: 50px;
@@ -27,6 +29,7 @@ ul {
 }
 
 .topnav a {
+  font-family: "Arial Black", Arial, sans-serif;
   float: left;
   display: block;
   color: black;
